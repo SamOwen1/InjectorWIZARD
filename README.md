@@ -2,7 +2,7 @@
 
 InjectorWIZARD is a MATLAB-based tool for designing rocket engine injectors. It supports all major injector types including coaxial swirl and jet configurations, pintle variants, and impinging designs.
 
-The software also includes swirl injector dynamics, combustion chamber resonance, and pattern design calculations. It was developed to streamline early-stage injector architecture selection and accelerate design iteration. 
+The prototype software also includes swirl injector dynamics, combustion chamber resonance, and pattern design calculations. It was developed to streamline early-stage injector architecture selection and accelerate design iteration. 
 
 ## Getting Started
 
