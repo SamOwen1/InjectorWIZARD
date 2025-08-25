@@ -13,4 +13,4 @@ To use the software:
 
 ## Development Status
 
-InjectorWIZARD is an actively evolving prototype. The executable is regularly updated with incremental improvements, bug fixes, and new features. As such, functionality may change between releases. Users are encouraged to check back often for the latest version.
+InjectorWIZARD is an actively evolving prototype. The executable is regularly updated with incremental improvements and new features. Users are encouraged to check back often for the latest version.
