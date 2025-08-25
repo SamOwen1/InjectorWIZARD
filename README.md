@@ -10,3 +10,7 @@ To use the software:
 
 1. Download `InjectorWIZARD_Installer.exe`
 2. Run the installer and follow the on-screen instructions
+
+## Development Status
+
+InjectorWIZARD is an actively evolving prototype. The executable is regularly updated with incremental improvements, bug fixes, and new features. As such, functionality may change between releases. Users are encouraged to check back often for the latest version.
