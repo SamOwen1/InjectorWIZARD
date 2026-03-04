@@ -14,3 +14,7 @@ To use the software:
 ## Development Status
 
 InjectorWIZARD is an actively evolving prototype. The executable is regularly updated with incremental improvements and new features. Users are encouraged to check back often for the latest version.
+
+## Information
+
+https://drive.google.com/file/d/1blqcanl_W0_7eLdkklvYMVZ60A_BJmes/view?usp=sharing
